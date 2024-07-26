@@ -1,0 +1,25 @@
+/*ini css*/
+nav{
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    align-items: center;
+    background-color: #f1f7fd;
+}
+
+.logo-icon{
+    background-image: url(https://dynamic.design.com/asset/logo/02b01ad6-d194-4468-abde-d357261e7a1c/logo-search-grid-2x?logoTemplateVersion=1&v=638494405516900000&text=jasa+travel&colorpalette=blue);
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+
+.nav-countainer{
+    display:flex
+}
+
+.nav-item{
+    border: 1px solid;
+    padding: 8px;
+}
